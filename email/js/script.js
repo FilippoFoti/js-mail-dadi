@@ -21,3 +21,5 @@ for (i = 0; i < arrayEmail.length; i++){
 console.log(arrayEmail);
 console.log(userEmail);
 console.log(result);
+
+document.getElementById("result").innerHTML = `${result}`;
