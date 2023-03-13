@@ -22,7 +22,7 @@ button.addEventListener('click', function(){
     } else if (userNumber < computerNumber) {
         result = 'Peccato hai perso! :(';
     } else {
-        result = 'Pareggio, riprova ;)';
+        result = 'Pareggio, riprova! ;)';
     }
     
     // Stampo il risultato

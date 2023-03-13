@@ -1,0 +1,64 @@
+/* HEADER */
+
+header {
+    height: 50px;
+    width: 100%;
+    background-color: #e6e6e6;
+}
+
+/* MAIN */
+
+section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+section h2 {
+    color: rgba(27, 114, 232, 1);
+    font-weight: bold;
+}
+
+#your-number {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: green;
+}
+
+#pc-number {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: gray;
+}
+
+section #button {
+    font-size: 1rem;
+    padding: 7px 15px;
+    background-color: rgba(27, 114, 232, 1);
+    border: 1px solid rgba(27, 114, 232, 1);
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+section #button:hover {
+    background-color: lightblue;
+    color: black;
+}
+
+#result {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* FOOTER */
+
+footer {
+    height: 75px;
+    background-color: #e6e6e6;
+}
+
+footer h2 {
+    color: black;
+    font-size: 1rem;
+}
