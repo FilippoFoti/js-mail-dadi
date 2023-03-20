@@ -30,7 +30,7 @@
 alert('Boolean Login');
 
 // Chiedere l'email all'utente
-const arrayEmail = ['filippofoti7@gmail.com', 'alessiolibbi@gmail.com', 'angeloprospero@gmail.com', 'antoniorocco@hotmail.it', 'johndelavega@libero.it', 'hectorperez@gmail.com', 'stefanomartino@hotmail.it'];
+const arrayEmail = ['alessiolibbi@gmail.com', 'angeloprospero@gmail.com', 'antoniorocco@hotmail.it', 'johndelavega@libero.it', 'hectorperez@gmail.com', 'stefanomartino@hotmail.it'];
 
 const loginBtn = document.getElementById("login-btn");
 loginBtn.addEventListener("click", function() {
